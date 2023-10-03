@@ -7,11 +7,9 @@ This was an experiment with using multple PCBs to create layers. I also played a
 30 produced
 
 ## Build guide
-
-Here's the build video:
+Click the picture to watch the video.
 [![Watch the video](https://img.youtube.com/vi/Z58JX-SbpmQ/hqdefault.jpg)](https://youtu.be/Z58JX-SbpmQ)
 
-Or, if you'd rather have written instructions:
 
 1. Solder SMD components on back of Utah-shaped badge
     - LED goes in the spot labelled D1 with the cathode (green) end to the left.
