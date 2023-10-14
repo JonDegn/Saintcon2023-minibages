@@ -25,7 +25,7 @@ Click the picture to watch the video.
 1. Cut the mirror film to the size of the piece of acrylic. Then trim an additional .5 - 1 mm from the height and width. We want the film to be slightly smaller than the acrylic.
 1. Peel the brown paper from one side of the acrylic and apply the mirror film to it. The film has a backing that needs to be peeled off as well. There should be a marker line on the side to peel off. To apply the mirror film, put a small amount of non-ammonia window cleaner on the acrylic and then apply the film while trying to remove all bubbles. It is okay if the film doesn't go all the way to the edges since the frame should cover it.
 1. Peel the other side of the acrylic place it in the badge resting on the LEDs. It should fit inside the 4 pcb frame pieces.
-1. Use a blade and file/sandpaper to clean any parts of the 3d-printed frame that need to be cleaned up.
+1. Use a blade and file/sandpaper to clean any parts of the 3d-printed frame that need to be cleaned up and put it over the badge. The frame should be snug and hold the acrylic in place.
 
 
 ## Parts
