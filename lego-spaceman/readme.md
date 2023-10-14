@@ -1,6 +1,6 @@
 # Lego Spaceman
 
-<img src="lego-spaceman-photo.png" width="300px">
+<img src="lego-spaceman-photo.png" height="200px">
 
 The first badge I made. I made it last year but didn't end up ordering any beside the initial prototype.
 

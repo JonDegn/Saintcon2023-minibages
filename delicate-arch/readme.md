@@ -8,6 +8,7 @@ This was an experiment with using multple PCBs to create layers. I also played a
 
 ## Build guide
 Click the picture to watch the video.
+
 [![Watch the video](https://img.youtube.com/vi/Z58JX-SbpmQ/hqdefault.jpg)](https://youtu.be/Z58JX-SbpmQ)
 
 
